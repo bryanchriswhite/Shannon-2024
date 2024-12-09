@@ -1,0 +1,48 @@
+[submodule "path"]
+	path = path
+	url = https://github.com/buildwithgrove/path.git
+[submodule "path-auth-data-server"]
+	path = path-auth-data-server
+	url = https://github.com/buildwithgrove/path-auth-data-server.git
+[submodule "pocketdex"]
+	path = pocketdex
+	url = https://github.com/pokt-network/pocketdex.git
+[submodule "poktroll"]
+	path = poktroll
+	url = https://github.com/pokt-network/poktroll.git
+[submodule "homebrew-poktroll"]
+	path = homebrew-poktroll
+	url = https://github.com/pokt-network/homebrew-poktroll.git
+[submodule "pokt-helm-charts"]
+	path = pokt-helm-charts
+	url = https://github.com/pokt-network/helm-charts.git
+[submodule "grove-helm-charts"]
+	path = grove-helm-charts
+	url = https://github.com/buildwithgrove/helm-charts.git
+[submodule "libpoktroll-clients"]
+	path = libpoktroll-clients
+	url = https://github.com/bryanchriswhite/libpoktroll-clients.git
+[submodule "poktroll-clients-py"]
+	path = poktroll-clients-py
+	url = https://github.com/bryanchriswhite/poktroll-clients-py.git
+[submodule "protocol-infra"]
+	path = protocol-infra
+	url = https://github.com/pokt-network/protocol-infra.git
+[submodule "poktroll-docker-compose-example"]
+	path = poktroll-docker-compose-example
+	url = https://github.com/pokt-network/poktroll-docker-compose-example.git
+[submodule "shannon-tx-builder"]
+	path = shannon-tx-builder
+	url = https://github.com/pokt-network/shannon-tx-builder.git
+[submodule "pocket-network-genesis"]
+	path = pocket-network-genesis
+	url = https://github.com/pokt-network/pocket-network-genesis.git
+[submodule "pocket-poktroll-faucet"]
+	path = pocket-poktroll-faucet
+	url = https://github.com/pokt-network/pocket-poktroll-faucet.git
+[submodule "shannon-sdk"]
+	path = shannon-sdk
+	url = https://github.com/pokt-network/shannon-sdk.git
+[submodule "smt"]
+	path = smt
+	url = https://github.com/pokt-network/smt.git
